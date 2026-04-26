@@ -1,2 +1,2 @@
 # CrudOperation
-“Basic CRUD operations project exported from STS"
+“Spring Boot CRUD project demonstrating REST API with Maven"
